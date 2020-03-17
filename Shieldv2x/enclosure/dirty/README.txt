@@ -1,0 +1,1 @@
+Dirty PCBs requires .dxf files with dimensions in cm

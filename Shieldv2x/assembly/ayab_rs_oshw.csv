@@ -25,7 +25,7 @@ Line,QTY,Reference,Type,Value,Footprint,Pin Count,Side,Manf,Manf PN,Alt. Manf,Al
 24,1,J3C,Molex Jack (2mm),"Molex 53014 series, 5 position male",PTH,5,TOP,Molex,53014-0510,Molex,53253-1070,WM18968-ND,538-53253-1070,DO NOT POPULATE. Mask holes if wave soldered
 25,1,J4C,Molex Jack (2mm),"Molex 53014 series, 8 position male",PTH,8,TOP,Molex,53014-0810,Molex,53253-0370,WM18971-ND,538-53253-0370,DO NOT POPULATE. Mask holes if wave soldered
 26,1,J5C,Molex Jack (2mm),"Molex 53014 series, 10 position male",PTH,10,TOP,Molex,53014-1010,Molex,53253-0570,WM18973-ND,538-53253-0570,DO NOT POPULATE. Mask holes if wave soldered
-27,1,J7A,Latching Header (2.5mm),"Hirose HNC series, 3 position male",PTH,3,TOP,Hirose,HNC2-2.5P-3DS(02),,,HNC2-2.5P-3DS(02)-ND,798-HNC2-2.5P-3DS02,Orientation of connectors is critical
-28,1,J3A,Latching Header (2.5mm),"Hirose HNC series, 8 position male",PTH,8,TOP,Hirose,HNC2-2.5P-8DS(02),,,H124015-ND,798-HNC2-2.5P-8DS02,Orientation of connectors is critical
-29,2,"J2A,J5A",Latching Header (2.5mm),"Hirose HNC series, 10 position male",PTH,10,TOP,Hirose,HNC2-2.5P-10DS(02),,,HNC2-2.5P-10DS(02)-ND,798-HNC22.5P10DS02,Orientation of connectors is critical
+27,1,J7A,Latching Header (2.5mm),"Hirose HNC series, 3 position male",PTH,3,TOP,Hirose,HNC2-2.5P-3DS(02),Hirose,HNC2-2.5P-3DS(55),HNC2-2.5P-3DS(02)-ND,798-HNC2-2.5P-3DS02,Orientation of connectors is critical
+28,1,J3A,Latching Header (2.5mm),"Hirose HNC series, 8 position male",PTH,8,TOP,Hirose,HNC2-2.5P-8DS(02),Hirose,HNC2-2.5P-8DS(55),H124015-ND,798-HNC2-2.5P-8DS02,Orientation of connectors is critical
+29,2,"J2A,J5A",Latching Header (2.5mm),"Hirose HNC series, 10 position male",PTH,10,TOP,Hirose,HNC2-2.5P-10DS(02),Hirose,HNC2-2.5P-10DS(55),H126244-ND,798-HNC22.5P10DS02,Orientation of connectors is critical
 30,2,"J8, J9",Header,"4-pin PTH Male Pin, 2.54 mm pitch",PTH,4,TOP,,,,,,,DO NOT POPULATE. Mask holes if wave soldered
